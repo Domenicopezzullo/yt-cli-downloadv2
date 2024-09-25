@@ -1,7 +1,6 @@
-idk something probably
 
+# Simple YT Downloader in Rust
 # USAGE
-  ./YouTubeDownloaderV2 -l url -f outputfolder \n
-  ./YouTubeDownloaderV2.exe -l url -f outputfolder
-
-  i think that's how you run a program on windows
+./YouTubeDownloaderV2 -l url -f outputfolder <br>
+./YouTubeDownloaderV2.exe -l url -f outputfolder <br>
+i think that's how you run a program on windows
